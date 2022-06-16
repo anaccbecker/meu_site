@@ -9,10 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Projetos
 subtitle: ''
 
-active: false
+active: true
 
 content:
   # Page type to display. E.g. project.
@@ -27,12 +27,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: Todos
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Finalizados
+      tag: Finalizado
+    - name: Atuais
+      tag: Atual
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

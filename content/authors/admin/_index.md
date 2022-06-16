@@ -9,7 +9,7 @@ education:
   - course: Engenheira Civil
     institution: UFPR
     year: 2018
-email: ""
+email: "ana.becker.accb@gmail.com"
 highlight_name: true
 interests:
 - Recursos hídricos
@@ -23,7 +23,7 @@ role: Pesquisadora
 social:
 - icon: envelope
   icon_pack: fas
-  link: /ana.becker.accb@gmail.com
+  link: mailto:ana.becker.accb@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/anaccbecker/
