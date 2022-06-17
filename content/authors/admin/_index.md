@@ -1,4 +1,4 @@
----
+﻿---
 bio: Mestre em Engenharia de Recursos Hídricos e Ambiental e trabalha com recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, qualidade da água, diagnósticos ambientais e análise de dados.
 education:
   courses:
@@ -16,10 +16,8 @@ interests:
 - Modelagem hidrodinâmica
 - Estudos hidrológicos
 - Ciência de dados
-organizations:
-- name: Lactec
-  url: https://lactec.org.br/
-role: Pesquisadora
+
+role: Engenheira de Recursos Hídricos
 social:
 - icon: envelope
   icon_pack: fas

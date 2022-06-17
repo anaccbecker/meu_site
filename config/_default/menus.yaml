@@ -13,9 +13,9 @@ main:
   - name: Experiências
     url: '#experience'
     weight: 12
-  - name: Cursos
-    url: '#accomplishments'
-    weight: 13
+  #- name: Cursos
+  #  url: '#accomplishments'
+  #  weight: 13
   # - name: Posts
   #   url: '#posts'
   #   weight: 20

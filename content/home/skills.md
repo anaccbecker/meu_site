@@ -1,4 +1,4 @@
----
+﻿---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -40,6 +40,11 @@ feature:
     icon: table-list
     icon_pack: fas
     name: Excel
+  #- name: Mais cursos
+  #  description: lista
+  #  icon: book-open-reader
+  #  icon_pack: fas
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
