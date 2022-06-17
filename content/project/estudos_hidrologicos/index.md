@@ -25,5 +25,5 @@ pager: false
 
 ### 
 
-As estruturas de um aproveitamento hidrelétrico são construídas com base nos dados disoníveis na época de sua construção. Entretanto, conforme as séries históricas de vazões vão crescendo ao longo dos anos, é necessário refazer alguns estudos hidrológicos com base nos dados mais recentes. Dentro desse contexto, são realizados estudos estatísticos com base em dados de vazão para avaliar a segurança das estruturas existentes.
+As estruturas de um aproveitamento hidrelétrico são construídas com base nos dados disponíveis na época de sua construção. Entretanto, conforme as séries históricas de vazões vão crescendo ao longo dos anos, é necessário refazer alguns estudos hidrológicos com base nos dados mais recentes. Dentro desse contexto, são realizados estudos estatísticos com base em dados de vazão para avaliar a segurança das estruturas existentes.
 

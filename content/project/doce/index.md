@@ -39,7 +39,7 @@ pager: false
 
 ### 
 
-Em novembro/2015, ocorreu o rompimento da barragem de Fundão, responsável pela liberação de mais de 40 milhões de m³ de rejeitos minerários de ferro. Com isso, a qualidade da água dos rios atingidos pela lama de rejeitos foi severamente impactada. A serviço do MPF, foram avaliados dados anteriores e posteriores ao desastre para identificar os danos decorrentes do desastre. 
+Em novembro de 2015 ocorreu o rompimento da barragem de Fundão, responsável pela liberação de mais de 40 milhões de m³ de rejeitos minerários de ferro. Com isso, a qualidade da água dos rios atingidos pela lama de rejeitos foi severamente impactada. A serviço do MPF, foram avaliados dados anteriores e posteriores ao desastre para identificar os danos decorrentes do desastre. 
 
 
 ---
