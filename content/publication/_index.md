@@ -1,8 +1,8 @@
----
+﻿---
 cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Publications
-view: 4
+title: 'Artigos Científicos'
+view: 2
 ---

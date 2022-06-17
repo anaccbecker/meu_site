@@ -9,6 +9,7 @@ image:
 summary: 
 tags:
 - Estudos Hidrológicos
+- Lactec
 - Atual
 title: Atualização das séries de vazões históricas e análise de cheias para diversas usinas
 url_code: ""

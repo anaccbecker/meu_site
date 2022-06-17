@@ -1,4 +1,4 @@
----
+﻿---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experiências
 subtitle:

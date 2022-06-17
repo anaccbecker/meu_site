@@ -10,6 +10,7 @@ summary:
 tags:
 - Modelagem Hidrodinâmica
 - Delft3D
+- Lactec
 - Atual
 title: Modelagem hidrodinâmica de troncos em reservatório hidrelétrico
 url_code: ""

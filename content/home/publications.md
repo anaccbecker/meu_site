@@ -1,4 +1,4 @@
----
+﻿---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -9,10 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Artigos Científicos
 subtitle: ''
 
-active: false
+active: true
 
 content:
   # Filter on criteria
@@ -34,10 +34,9 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  view: 4
+  columns: '1'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+Experimente [filtrar as publicações](./publication/) de seu interesse.
+
