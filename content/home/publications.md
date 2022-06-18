@@ -39,5 +39,3 @@ design:
 ---
 
 Experimente [filtrar as publicações](./publication/) de seu interesse.
-
-teste
