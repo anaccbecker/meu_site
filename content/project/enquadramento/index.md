@@ -2,7 +2,7 @@
 date: "2021-03-30T00:00:00Z"
 external_link: ""
 image:
-  caption: UFPR
+  caption: Represa de Jurumirim, em Piraju (SP)/ Raylton Alves / Banco de imagens ANA
   focal_point: "Center"
   placement: 1
 links:
