@@ -17,7 +17,7 @@ interests:
 - Estudos hidrológicos
 - Ciência de dados
 
-role: Engenheira de Recursos Hídricos
+role: Engenheira de Recursos Hídricos e Meio Ambiente
 social:
 - icon: envelope
   icon_pack: fas
