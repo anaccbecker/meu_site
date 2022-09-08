@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Curitiba
     date_start: '2019-08-19'
-    date_end: ''
+    date_end: '2022-07-22'
     description: 
 
   - title: Consultora
