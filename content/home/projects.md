@@ -29,10 +29,10 @@ content:
   filter_button:
     - name: Todos
       tag: '*'
-    - name: Finalizados
-      tag: Finalizado
-    - name: Atuais
-      tag: Atual
+    - name: Lactec
+      tag: Lactec
+    - name: UFPR
+      tag: UFPR
 
 
 design:
