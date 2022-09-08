@@ -24,7 +24,6 @@ tags:
 - Qualidade da água
 - Diagnóstico ambiental
 - Lactec
-- Finalizado
 title: Diagnóstico do rio Doce após o rompimento da barragem de Fundão
 url_code: ""
 url_pdf: ""
