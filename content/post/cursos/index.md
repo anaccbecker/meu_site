@@ -18,7 +18,7 @@ title: Lista de cursos realizados
 ---
 
   - **Python para Data Science e Machine Learning** | Udemy - 2022
-  - **HEC-RAS 6.0.1.** | Centro de Tecnologia - Universidade Federal do Alagoas - 2021 
+  - **HEC-RAS 6.0.1.** | 2021 
   - **Hydrodynamic Modelling with Delft3D** | Karlsruher Institut für Technologie (KIT) - 2020
   - **Software QGIS** | UFPR - 2019
   - **Pagamento por Serviços Ambientais** | Agência Nacional de Águas (ANA) - 2019
