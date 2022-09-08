@@ -22,7 +22,6 @@ summary:
 tags:
 - Qualidade da água
 - Lactec
-- Finalizado
 title: Avaliação da qualidade da água de rios e reservatórios
 url_code: ""
 url_pdf: ""
