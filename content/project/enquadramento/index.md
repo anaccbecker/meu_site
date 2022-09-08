@@ -37,6 +37,6 @@ e no Brasil.
 
 ### Artigos relativos ao projeto
 
-- [**2021** - TOTAL MAXIMUM DAILY LOADS: A PERSPECTIVE FOCUSED ON RESERVOIR WATER QUALITY PLANNING AND MANAGEMENT](../../publication/paranapanema_sbrh_2021/)
+- [**2021** - Total Maximum Daily Loads: a perspective focused on reservoir water quality planning and management](../../publication/paranapanema_sbrh_2021/)
 
 
