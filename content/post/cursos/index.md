@@ -18,7 +18,7 @@ title: Lista de cursos realizados
 ---
 
   - **HEC-RAS: Simulação de Rompimento de Barragens** | 2022
-  - **HEC-RAS: Simulação de manchas de inundação** | 2022
+  - **HEC-RAS: Simulação de Manchas de Inundação** | 2022
   - **Python para Data Science e Machine Learning** | Udemy - 2022
   - **HEC-RAS 6.0.1.** | 2021 
   - **Hydrodynamic Modelling with Delft3D** | Karlsruher Institut für Technologie (KIT) - 2020
