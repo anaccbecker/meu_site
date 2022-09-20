@@ -19,6 +19,8 @@ summary:
 tags:
 - Qualidade da água
 - Modelagem Hidrodinâmica
+- Análise de dados
+- Programação na linguagem R
 - UFPR
 - ANA
 title: Modelagem da qualidade da água na bacia do Paranapanema
