@@ -21,6 +21,9 @@ links:
 summary: 
 tags:
 - Qualidade da água
+- Estatística
+- Análise de dados
+- Programação em linguagem R
 - Lactec
 title: Avaliação da qualidade da água de rios e reservatórios
 url_code: ""
