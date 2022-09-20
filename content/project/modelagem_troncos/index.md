@@ -10,6 +10,8 @@ summary:
 tags:
 - Modelagem Hidrodinâmica
 - Delft3D
+- Análise de dados
+- Programação em linguagem R
 - Lactec
 title: Modelagem hidrodinâmica de troncos em reservatório hidrelétrico
 url_code: ""
