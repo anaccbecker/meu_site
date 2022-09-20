@@ -9,6 +9,8 @@ image:
 summary: 
 tags:
 - Estudos Hidrológicos
+- Análise de dados
+- Programação em linguagem R
 - Lactec
 title: Atualização das séries de vazões históricas e análise de cheias para diversas usinas
 url_code: ""
