@@ -28,7 +28,7 @@ title: Lista de cursos realizados
   - **Data Science Visualization** | edX - 2018
   - **Data Science R Basics** | edX - 2018
   - **Excel - Recursos Avançados** | Serviço Nacional de Aprendizagem Comercial (SENAC) - 2015
-  - **Autocad** | Serviço Nacional de Aprendizagem Comercial (SENAC) - 2015
+  - **Autocad** | Serviço Nacional de Aprendizagem Comercial (SENAC) - 2013
 
 
 
