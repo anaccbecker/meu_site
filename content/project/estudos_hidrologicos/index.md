@@ -9,6 +9,7 @@ image:
 summary: 
 tags:
 - Estudos Hidrológicos
+- Estatística
 - Análise de dados
 - Programação em linguagem R
 - Lactec
