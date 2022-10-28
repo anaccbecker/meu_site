@@ -24,7 +24,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 
+  - description: Estatística
     icon: chart-line
     icon_pack: fas
     name: Análise de dados
@@ -32,11 +32,11 @@ feature:
     icon: earth
     icon_pack: fas
     name: QGIS
-  - description: Modelagem Hidrodinâmica
+  - description: Modelagem hidrodinâmica
     icon: water
     icon_pack: fas
     name: Delft3D
-  - description: 
+  - description: Planilhas eletrônicas
     icon: table-list
     icon_pack: fas
     name: Excel
