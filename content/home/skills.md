@@ -61,6 +61,8 @@ feature:
 #  description: "90%"
 ---
 
+
 "Apaixone-se pelos problemas, não pelas técnicas"
 ##
+
 Veja a [lista completa de cursos](./post/cursos).
