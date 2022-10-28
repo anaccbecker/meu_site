@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Habilidades
-subtitle:
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -61,5 +61,6 @@ feature:
 #  description: "90%"
 ---
 
-
+"Apaixone-se pelos problemas, não pelas técnicas"
+##
 Veja a [lista completa de cursos](./post/cursos).
