@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Habilidades
-subtitle:
+subtitle: "Apaixone-se pelos problemas e não pelas técnicas"
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
