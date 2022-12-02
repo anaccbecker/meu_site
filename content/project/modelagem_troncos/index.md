@@ -35,4 +35,6 @@ pager: false
 A presença de troncos flutuantes tem sido um grande desafio para o setor de geração de energia, pois oferece risco às estruturas das usinas. Dentro desse contexto, a modelagem hidrodinâmica de troncos foi realizada para auxiliar na elaboração de alternativas para solucionar esse problema.
 
 
+### Artigo relativo ao projeto
 
+- [**2022** -  Simulação tridimensional de transporte de troncos no rio Madeira](../../publication/jirau_2022/)
