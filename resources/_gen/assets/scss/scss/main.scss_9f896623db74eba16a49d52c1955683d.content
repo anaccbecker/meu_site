@@ -7613,8 +7613,7 @@ div.alert a {
   overflow: hidden;
   overflow-wrap: break-word;
   word-wrap: break-word;
-  word-break: break-word; 
-  text-align: justify;}
+  word-break: break-word; }
   .article-style a {
     text-decoration: inherit; }
   .article-style img,

@@ -8,7 +8,7 @@ image:
 links:
 - icon: book-open
   icon_pack: fas
-  name: Produtos
+  name: Livro
   url: https://metadados.snirh.gov.br/geonetwork/srv/api/records/45d66f15-0605-4167-ac08-b24a6cdc2879/attachments/vers%C3%A3o_web_pg_dupla%5B1%5D.pdf
 - icon: file-lines
   icon_pack: far

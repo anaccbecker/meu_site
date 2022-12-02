@@ -18,7 +18,11 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
+links: 
+- icon: file-lines
+  icon_pack: far
+  name: Artigo
+  url: '../../publication/jirau_2022/'
 
 show_date: false
 share: false

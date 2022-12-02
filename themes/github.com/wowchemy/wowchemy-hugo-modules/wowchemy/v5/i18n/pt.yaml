@@ -101,7 +101,7 @@
 - id: pub_uncat
   translation: Sem categoria
 - id: pub_conf
-  translation: Artigo de conferência
+  translation: Artigo de simpósio
 - id: pub_journal
   translation: Artigo de revista
 - id: pub_preprint
