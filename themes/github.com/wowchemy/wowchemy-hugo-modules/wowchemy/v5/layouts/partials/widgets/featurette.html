@@ -9,11 +9,11 @@
   </div>
   {{ end }}
 
-  {{ with $page.Content }}
+  <!-- {{ with $page.Content }}
   <div class="col-md-12">
     {{ . }}
   </div>
-  {{ end }}
+  {{ end }} -->
 
   {{ range $page.Params.feature }}
   {{ $pack := or .icon_pack "fas" }}
@@ -38,4 +38,9 @@
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
+  {{ with $page.Content }}
+    <div class="col-md-12">
+      {{ . }}
+    </div>
+    {{ end }}
 </div>

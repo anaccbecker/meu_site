@@ -10,24 +10,24 @@ headless: true
 weight: 30
 
 title: Habilidades
-subtitle: 
+subtitle: '"Apaixone-se pelos problemas, não pelas técnicas"'
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Linguagem de programação
+  - description: Planilhas eletrônicas
+    icon: table-list
+    icon_pack: fas
+    name: Excel
+  - description: Programação para análise de dados
     icon: r-project
     icon_pack: fab
     name: R
-  - description: Linguagem de programação
+  - description: Programação para análise de dados
     icon: python
     icon_pack: fab
     name: Python
-  - description: Estatística
-    icon: chart-line
-    icon_pack: fas
-    name: Análise de dados
   - description: Geoprocessamento
     icon: earth
     icon_pack: fas
@@ -36,10 +36,11 @@ feature:
     icon: water
     icon_pack: fas
     name: Delft3D
-  - description: Planilhas eletrônicas
-    icon: table-list
-    icon_pack: fas
-    name: Excel
+  - description: Relatórios técnicos e artigos científicos
+    icon: file-lines
+    icon_pack: far
+    name: Escrita técnica
+
   #- name: Mais cursos
   #  description: lista
   #  icon: book-open-reader
@@ -61,6 +62,6 @@ feature:
 #  description: "90%"
 ---
 
-"Apaixone-se pelos problemas, não pelas técnicas"
+
 ##
-Veja a [lista completa de cursos](./post/cursos).
+Veja a [lista completa de cursos](./post/cursos)   |    Veja a [lista de publicações científicas](./publication/)

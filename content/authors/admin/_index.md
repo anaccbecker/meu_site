@@ -15,7 +15,7 @@ interests:
 - Recursos hídricos
 - Modelagem hidrodinâmica
 - Estudos hidrológicos
-- Ciência de dados
+- Análise de dados
 
 role: Engenheira de Recursos Hídricos e Meio Ambiente
 social:
