@@ -29,8 +29,7 @@
     <!-- Content -->
     <div class="col py-2">
       <div class="card">
-        <div class="card-body">
-
+        <div class="card-body" style="padding:0.5rem;">
           {{- if .company_logo}}
           {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) -}}
           {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
@@ -43,20 +42,20 @@
             <div>
           {{ end }}
 
-              <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
-              <div class="section-subheading card-title exp-company text-muted my-0">
+              <div class="section-subheading card-title exp-title text-muted my-0">
                 {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
               </div>
-              <div class="text-muted exp-meta">
-                {{ (time .date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
+              <div class="section-subheading card-title exp-company text-muted my-0 exp-meta">{{.title | markdownify | emojify}}
+              <!-- <div class="text-muted exp-meta"> -->
+                ({{ (time .date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
                 {{ if .date_end}}
-                  {{ (time .date_end) | time.Format ($page.Params.date_format | default "January 2006") }}
+                  {{ (time .date_end) | time.Format ($page.Params.date_format | default "January 2006") }})
                 {{else}}
-                  {{ i18n "present" | default "Present" }}
+                  {{ i18n "present" | default "Present" }})
                 {{end}}
                 {{with .location}}
-                  <span class="middot-divider"></span>
-                  <span>{{.}}</span>
+                  <!-- <span class="middot-divider"></span> -->
+                  <!-- <span>{{.}}</span> -->
                 {{end}}
               </div>
 
