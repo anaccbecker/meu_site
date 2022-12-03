@@ -18,6 +18,10 @@ links:
   icon_pack: fas
   name: Repercussão
   url: https://valor.globo.com/brasil/noticia/2021/11/03/danos-causados-por-desastre-na-barragem-samarco-em-mariana-podem-alcancar-r-60-bilhoes-aponta-estudo.ghtml
+- icon: file-lines
+  icon_pack: far
+  name: Artigo
+  url: '../../publication/doce_sbrh_2021/'
 
 summary: 
 tags:
@@ -41,11 +45,3 @@ pager: false
 
 Em novembro de 2015 ocorreu o rompimento da barragem de Fundão, responsável pela liberação de mais de 40 milhões de m³ de rejeitos minerários de ferro. Com isso, a qualidade da água dos rios atingidos pela lama de rejeitos foi severamente impactada. A serviço do MPF, foram avaliados dados anteriores e posteriores ao desastre para identificar os danos decorrentes do desastre. 
 
-### Saiba mais sobre o desastre
-- [Resultados](http://diagnostico-riodoce.lactec.org.br/#/)
-- [Produtos](http://www.mpf.mp.br/grandes-casos/caso-samarco/atuacao-do-mpf/pareceres-e-relatorios/instituto-lactec)
-- [Repercussão](https://valor.globo.com/brasil/noticia/2021/11/03/danos-causados-por-desastre-na-barragem-samarco-em-mariana-podem-alcancar-r-60-bilhoes-aponta-estudo.ghtml)
-
-### Artigo relativo ao projeto
-
-- [**2021** - Aplicação do Índice de Conformidade ao Enquadramento (ICE) no Rio Doce antes e depois do rompimento da barragem de Fundão](../../publication/doce_sbrh_2021/)

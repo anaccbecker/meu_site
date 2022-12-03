@@ -41,8 +41,6 @@ O processo de enquadramento exige estudos para determinar os usos dos recursos h
 Portanto, a ANA e a UFPR apresentam o estudo Qualidade de Água na Bacia do Rio Paranapanema – Bases para o Enquadramento como uma relevante contribuição ao planejamento e à implementação deste importante instrumento de gestão dos recursos hídricos na bacia do Paranapanema 
 e no Brasil.
 
-### Artigos relativos ao projeto
 
-- [**2021** - Total Maximum Daily Loads: a perspective focused on reservoir water quality planning and management](../../publication/paranapanema_sbrh_2021/)
 
 

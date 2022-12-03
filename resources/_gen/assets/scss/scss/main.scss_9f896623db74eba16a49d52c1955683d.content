@@ -7545,7 +7545,9 @@ div.alert a {
 .article-container {
   max-width: 760px;
   padding: 0 20px 0 20px;
-  margin: 0 auto 0 auto; }
+  margin: 0 auto 0 auto;
+  text-align: justify;
+  font-size: 1rem; }
 
 .page-subtitle {
   font-size: 1.15rem;
@@ -7600,7 +7602,8 @@ div.alert a {
   text-decoration: none; }
 
 .article-title {
-  font-size: 1.75rem; }
+  font-size: 1.75rem;
+  text-align: justify; }
 
 .article-title a {
   color: #151515;
@@ -7611,6 +7614,7 @@ div.alert a {
 
 .article-style {
   overflow: hidden;
+  text-align: justify;
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word; }
