@@ -1,5 +1,4 @@
-# meu_site
- Criação de website para portfólio profissional
+# Criação de website para portfólio profissional
 
  ## Instalações necessárias
  - R
