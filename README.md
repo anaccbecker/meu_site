@@ -9,5 +9,5 @@
  - blogdown::serve_site() 
  - blogdown::stop_server()
 
- ## Acesse o resultado final:
+ ## Acesse o resultado final
 https://anabecker.netlify.app/
