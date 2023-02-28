@@ -33,6 +33,8 @@ content:
       tag: Lactec
     - name: UFPR
       tag: UFPR
+    - name: Simepar
+      tag: Simepar
 
 
 design:

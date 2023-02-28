@@ -21,6 +21,7 @@ tags:
 - Modelagem Hidrodinâmica
 - Análise de dados
 - Programação em linguagem R
+- Programação em linguagem Python
 - UFPR
 - ANA
 title: Modelagem da qualidade da água na bacia do Paranapanema
