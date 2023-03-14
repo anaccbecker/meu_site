@@ -31,8 +31,8 @@ profile: true
 pager: false
 ---
 
-A visualização e disponibilização de dados hidrológicos e ambientais do Paraná é de grande importância para a gestão de recursos hídricos. O Infohidro é uma plataforma criada pelo Simepar que subsidia o acesso à essas informações para a Sanepar (Companhia de Saneamento do Paraná).
-Como parte desse projeto, estão sendo realizados estudos de validação de dados de chuva obtidos por satélite e de modelagem chuva-vazão.
+A visualização e disponibilização de dados hidrológicos e ambientais é de grande importância para a gestão de recursos hídricos do Paraná. O Infohidro é uma plataforma criada pelo Simepar que subsidia o acesso à essas informações para a Sanepar (Companhia de Saneamento do Paraná).
+Como parte desse projeto, foram realizados estudos de validação de dados de chuva obtidos por satélite, análises de dados hidrológicos e geoespaciais para compor os resultados da plataforma.
 
 
 
