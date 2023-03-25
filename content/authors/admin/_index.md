@@ -2,9 +2,9 @@
 bio: Mestre em Engenharia de Recursos Hídricos e Ambiental e trabalha com recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, qualidade da água, diagnósticos ambientais e análise de dados.
 education:
   courses:
-  # - course: Especialização em Data Science & Big Data
-  #   institution: UFPR
-  #   year: '2023 (em andamento)'
+  - course: Especialização em Data Science & Big Data
+    institution: UFPR
+    year: '2023 (em andamento)'
   - course: Mestre em Engenharia de Recursos Hídricos e Ambiental
     institution: UFPR
     year: 2021
@@ -45,4 +45,4 @@ title: Ana Becker
 
 Experiência em pesquisas e estudos envolvendo recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, qualidade da água, diagnósticos ambientais e análise de dados.
 
-{{< icon name="file-pdf" pack="far" >}} Download do {{< staticref "uploads/Ana Becker - Currículo.pdf" "newtab" >}}currículo{{< /staticref >}}.
+<!-- {{< icon name="file-pdf" pack="far" >}} Download do {{< staticref "uploads/Ana Becker - Currículo.pdf" "newtab" >}}currículo{{< /staticref >}}. -->
