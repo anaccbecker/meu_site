@@ -29,12 +29,15 @@ content:
   filter_button:
     - name: Todos
       tag: '*'
+    - name: HIDROBR
+      tag: HIDROBR
+    - name: Simepar
+      tag: Simepar
     - name: Lactec
       tag: Lactec
     - name: UFPR
       tag: UFPR
-    - name: Simepar
-      tag: Simepar
+
 
 
 design:
