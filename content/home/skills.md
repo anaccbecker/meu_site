@@ -43,7 +43,7 @@ feature:
   - description: 
     icon: 
     icon_pack:
-    name: Escrita técnica
+    name: 
   - description: Relatórios técnicos e artigos científicos
     icon: file-lines
     icon_pack: far
