@@ -36,6 +36,14 @@ feature:
     icon: water
     icon_pack: fas
     name: Delft3D
+  - description: Modelagem hidrodinâmica
+    icon: water
+    icon_pack: fas
+    name: HEC-RAS
+  - description: 
+    icon: 
+    icon_pack:
+    name: Escrita técnica
   - description: Relatórios técnicos e artigos científicos
     icon: file-lines
     icon_pack: far
