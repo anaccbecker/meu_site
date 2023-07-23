@@ -18,6 +18,10 @@ links:
   icon_pack: far
   name: Artigo 2
   url: '../../publication/zd_2023/'
+- icon: file-lines
+  icon_pack: far
+  name: Dissertação
+  url: '../../uploads/Dissertação_AnaBecker.pdf'
 
 summary: 
 tags:

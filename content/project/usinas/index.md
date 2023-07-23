@@ -18,6 +18,10 @@ links:
   icon_pack: far
   name: Artigo 3
   url: '../../publication/series_historicas_vossoroca_2020/'
+- icon: file-lines
+  icon_pack: far
+  name: TCC
+  url: '../../uploads/TFC2-Ana_Becker_Versão_Final.pdf'
 summary: 
 tags:
 - Qualidade da água
