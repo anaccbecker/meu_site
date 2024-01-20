@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: 'Termos Frequentes'
+title: 'Temas Frequentes'
 subtitle: ''
 
 active: true
@@ -22,5 +22,5 @@ content:
 design:
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min: 0.8
-  font_size_max: 1.5
+  font_size_max: 1
 ---

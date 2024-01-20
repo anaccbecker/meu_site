@@ -28,10 +28,6 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Geoprocessamento
-    icon: earth
-    icon_pack: fas
-    name: QGIS
   - description: Modelagem hidrodinâmica
     icon: water
     icon_pack: fas
@@ -40,10 +36,14 @@ feature:
     icon: water
     icon_pack: fas
     name: HEC-RAS
-  - description: 
-    icon: 
-    icon_pack:
-    name: 
+  - description: Modelagem hidrodinâmica
+    icon: water
+    icon_pack: fas
+    name: RiverFlow2D
+  - description: Geoprocessamento
+    icon: earth
+    icon_pack: fas
+    name: QGIS
   - description: Relatórios técnicos e artigos científicos
     icon: file-lines
     icon_pack: far
