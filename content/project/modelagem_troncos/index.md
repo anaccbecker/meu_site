@@ -21,9 +21,12 @@ url_video: ""
 links: 
 - icon: file-lines
   icon_pack: far
-  name: Artigo
+  name: Artigo 1
   url: '../../publication/jirau_2022/'
-
+- icon: file-lines
+  icon_pack: far
+  name: Artigo 2
+  url: '../../publication/jirau_2024/'
 show_date: false
 share: false
 profile: true
