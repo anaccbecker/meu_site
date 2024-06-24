@@ -15,7 +15,7 @@ tags:
 - Delft3D
 - HIDROBR
 - Programação em linguagem R 
-title: Estudo Hidrológico e de Dispersão de Efluentes Industriais - Cubatão/SP
+title: Estudo Hidrológico e de Dispersão de Efluentes Industriais
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,8 +27,11 @@ share: false
 profile: true
 pager: false
 ---
-Visando subsidiar o processo de outorga de captação e disposição de efluentes, foi realizado estudo hidrológico e modelagem da dispersão de efluentes.
-A vazão de referência foi estimada por meio da regionalização de vazões pelos métodos de perdas e regressão. O levantamento das outorgas existentes foi necessário para a verificação da disponibilidade hídrica. A modelagem de dispersão de efluentes foi conduzida com o objetivo de identificar a zona de mistura.
+Visando subsidiar o processo de outorga de captação e disposição de efluentes, foi realizado estudo hidrológico e modelagem da dispersão de efluentes, de acordo com as seguintes etapas: 
+- Vazão de referência estimada por meio da regionalização de vazões. 
+- Levantamento das outorgas existentes para a verificação da disponibilidade hídrica. 
+- Modelagem de dispersão de efluentes o objetivo de identificar o atendimento à Resolução CONAMA nº 357/2005 e à Resolução CONAMA nº 430/2011.
+
 
 
 
