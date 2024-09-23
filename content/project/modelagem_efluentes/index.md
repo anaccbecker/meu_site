@@ -5,13 +5,18 @@ image:
   caption: 
   focal_point: "Center"
   placement: 1
-
+links:
+- icon: file-lines
+  icon_pack: far
+  name: Artigo
+  url: '../../publication/modelagem_efluentes_2024/'
 
 summary: 
 tags:
 - Estudos hidrológicos
 - Modelagem hidrodinâmica
 - Qualidade da água
+- Outorgas
 - Delft3D
 - HIDROBR
 - Programação em linguagem R 

@@ -2,9 +2,9 @@
 bio: Mestre em Engenharia de Recursos Hídricos e Ambiental e trabalha com recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, qualidade da água, diagnósticos ambientais e análise de dados.
 education:
   courses:
-  - course: Especialização em Data Science & Big Data
+  - course: Especialista em Data Science & Big Data
     institution: UFPR
-    year: '2024 (em andamento)'
+    year: '2024'
   - course: Mestre em Engenharia de Recursos Hídricos e Ambiental
     institution: UFPR
     year: 2021
