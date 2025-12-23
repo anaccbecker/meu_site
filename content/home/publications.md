@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: null
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -9,10 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: ''
+title: 'Publicações de artigos científicos'
 subtitle: ''
 
-active: false
+active: true
 
 content:
   # Filter on criteria
@@ -34,7 +34,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 4
+  view: 2
   columns: '1'
 ---
 

@@ -31,41 +31,24 @@ experience:
     date_end: 
     description: 
     
-  - title: Pesquisadora 
-    company: Simepar
-    company_url: 'http://www.simepar.br/'
-    company_logo: 
-    location: Curitiba
-    date_start: '2023-01-20'
-    date_end: '2023-03-17'
-    description: 
+#  - title: Pesquisadora 
+#    company: Simepar
+#    company_url: 'http://www.simepar.br/'
+#    company_logo: 
+#    location: Curitiba
+#    date_start: '2023-01-20'
+#    date_end: '2023-03-17'
+#    description: 
 
-  - title: Pesquisadora Trainee
-    company: Lactec
-    company_url: 'https://lactec.org.br/'
-    company_logo: 
-    location: Curitiba
-    date_start: '2019-08-19'
-    date_end: '2022-07-22'
-    description: 
-
-  - title: Consultora
-    company: Lactec
-    company_url: 'https://lactec.org.br/'
-    company_logo: 
-    location: Curitiba
-    date_start: '2018-08-20'
-    date_end: '2019-08-19'
-    description: 
-    
-  - title: Estagiária
+  - title: Estagiária → Consultora → Pesquisadora
     company: Lactec
     company_url: 'https://lactec.org.br/'
     company_logo: 
     location: Curitiba
     date_start: '2017-01-16'
-    date_end: '2018-08-20'
+    date_end: '2022-07-22'
     description: 
+
 design:
   columns: '2'
 ---

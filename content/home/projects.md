@@ -31,8 +31,8 @@ content:
       tag: '*'
     - name: HIDROBR
       tag: HIDROBR
-    - name: Simepar
-      tag: Simepar
+#    - name: Simepar
+#      tag: Simepar
     - name: Lactec
       tag: Lactec
     - name: UFPR

@@ -1,7 +1,10 @@
 ---
-bio: Mestre em Engenharia de Recursos Hídricos e Ambiental e trabalha com recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, qualidade da água, diagnósticos ambientais e análise de dados.
+bio: Mestre em Engenharia de Recursos Hídricos e Ambiental e trabalha com recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, segurança de barragens, qualidade da água e diagnósticos ambientais.
 education:
   courses:
+  - course: Especialização em Recursos Hídricos na Mineração (em andamento)
+    institution: Focus
+    year: '2025'
   - course: Especialista em Data Science & Big Data
     institution: UFPR
     year: '2024'
@@ -17,6 +20,7 @@ interests:
 - Recursos hídricos
 - Modelagem hidrodinâmica
 - Estudos hidrológicos
+- Segurança de barragens
 
 role: Engenheira de Recursos Hídricos e Meio Ambiente
 social:
@@ -32,9 +36,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/anaccbecker
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCECEe4mWuE_QBWVV_2SH_bw?app=desktop
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ana-Carolina-Becker

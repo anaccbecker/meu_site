@@ -5,12 +5,17 @@ image:
   caption: 
   focal_point: "Center"
   placement: 1
-
+links:
+- icon: file-lines
+  icon_pack: far
+  name: Artigo
+  url: '../../publication/integracao_pae_plancon_2025/'
 
 summary: 
 tags:
 - PLANCON
 - HIDROBR
+- Segurança de Barragens
 title: Plano de Contingência (PLANCON) para os municípios a jusante da UHE Pedra do Cavalo
 url_code: ""
 url_pdf: ""

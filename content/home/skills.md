@@ -9,17 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Habilidades
+title: Habilidades técnicas
 #subtitle: '"Apaixone-se pelos problemas, não pelas técnicas"'
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Planilhas eletrônicas
-    icon: table-list
+  - description: Modelagem hidrodinâmica
+    icon: water
     icon_pack: fas
-    name: Excel
+    name: HEC-RAS
+  - description: Modelagem hidrodinâmica
+    icon: water
+    icon_pack: fas
+    name: RiverFlow2D  
+  - description: Modelagem hidrodinâmica
+    icon: water
+    icon_pack: fas
+    name: Delft3D  
   - description: Programação para análise de dados
     icon: r-project
     icon_pack: fab
@@ -28,26 +36,14 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Modelagem hidrodinâmica
-    icon: water
-    icon_pack: fas
-    name: Delft3D
-  - description: Modelagem hidrodinâmica
-    icon: water
-    icon_pack: fas
-    name: HEC-RAS
-  - description: Modelagem hidrodinâmica
-    icon: water
-    icon_pack: fas
-    name: RiverFlow2D
   - description: Geoprocessamento
     icon: earth
     icon_pack: fas
     name: QGIS
-  - description: Relatórios técnicos e artigos científicos
-    icon: file-lines
-    icon_pack: far
-    name: Escrita técnica
+
+
+
+
 
   #- name: Mais cursos
   #  description: lista
@@ -68,9 +64,10 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+# Veja a [lista completa de cursos](./post/cursos)   |    Veja a [lista de publicações científicas](./publication/)
 ---
 
 
 ##
 ##
-Veja a [lista completa de cursos](./post/cursos)   |    Veja a [lista de publicações científicas](./publication/)
