@@ -2,7 +2,7 @@
 bio: Mestre em Engenharia de Recursos Hídricos e Ambiental e trabalha com recursos hídricos, incluindo estudos hidrológicos, modelagem hidrodinâmica, segurança de barragens, qualidade da água e diagnósticos ambientais.
 education:
   courses:
-  - course: Especialização em Recursos Hídricos na Mineração (em andamento)
+  - course: Especialista em Recursos Hídricos na Mineração
     institution: Focus
     year: '2025'
   - course: Especialista em Data Science & Big Data
